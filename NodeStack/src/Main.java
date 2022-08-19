@@ -1,5 +1,5 @@
 public class Main {
-    public static void main (String[] args){
+    public static void main (String[] args){ // this main is just for lousy testing purposes
         Stack teste = new Stack();
 
         teste.push(1);
